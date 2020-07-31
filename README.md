@@ -3,7 +3,7 @@
     <tittle>Топ 5 лучших Battle royale</tittle>
     </head>
     <body>
-      //CSS
+     
       
       <p>
         CS:GO Danger Zone
