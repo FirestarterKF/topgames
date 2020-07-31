@@ -2,9 +2,7 @@
   <head>
     <tittle>Топ 5 лучших Battle royale</tittle>
     </head>
-    <body>
-     
-      
+    <body> 
       <p>
         CS:GO Danger Zone
         </p>
