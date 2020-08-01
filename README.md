@@ -120,8 +120,9 @@
       <p>
         Проблемы с серверами.<br>
         </p>
+        <p>
       Геймплей:https://www.youtube.com/watch?v=NNp8hA4QpRU
-      
+      </p>
       <H3>
       Call of Duty Warzone
       </H3>
