@@ -121,6 +121,11 @@
         Проблемы с серверами.<br>
         </p>
       Геймплей:https://www.youtube.com/watch?v=NNp8hA4QpRU
+      
+      <H3>
+      Call of Duty Warzone
+      </H3>
+      <img src="https://i2.wp.com/itc.ua/wp-content/uploads/2020/03/call_of_duty_warzone_i00.jpg?fit=770%2C546&quality=100&strip=all&ssl=1" height="600px" Weight="800px">
       </body>
     
   </html>
