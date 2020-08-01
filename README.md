@@ -15,7 +15,7 @@
       <H3>
         #3  Hyper Scape
         </h3>
-      <img src= "https://store.ubi.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dwef530d92/images/large/5ed4f98e5cdf9a1528a8c206.jpg?sw=341&sh=450&sm=fit" height="600px" weight="800px">
+      <img src= "https://xdlate.com/wp-content/uploads/2020/07/when-is-the-hyper-scape-closed-beta-coming-out-how-to-get-access.jpg" height="600px" weight="800px">
       
       
       
